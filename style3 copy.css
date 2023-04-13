@@ -149,7 +149,8 @@ nav img{
     .form_container img {
       width: 50px;
       height: 50px;
-      margin-left: 140px;
+      margin-left: 50%;
+      margin-right:50%
       margin-top: 5px;
       }
   }
